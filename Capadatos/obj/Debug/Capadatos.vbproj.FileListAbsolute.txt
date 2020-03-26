@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\bin\Debug\Capadatos.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\bin\Debug\Capadatos.pdb
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\bin\Debug\Capadatos.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.Resources.resources
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\bin\Debug\Capadatos.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\bin\Debug\Capadatos.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\bin\Debug\Capadatos.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.Resources.resources
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.vbproj.GenerateResource.Cache
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capadatos\obj\Debug\Capadatos.pdb

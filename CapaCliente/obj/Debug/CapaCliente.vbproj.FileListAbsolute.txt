@@ -1,0 +1,53 @@
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe.config
+E:\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe.config
+I:\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe.config
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.pdb
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.pdb
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.pdb
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.vbprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.Form1.resources
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.Resources.resources
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.exe
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.pdb
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe.config
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.exe
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.xml
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.pdb
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.pdb
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.xml
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.dll
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.dll
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.pdb
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.xml
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.pdb
+I:\ \SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.xml
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.vbprojResolveAssemblyReference.cache
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.Form1.resources
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.Resources.resources
+I:\ \SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.vbproj.GenerateResource.Cache
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe.config
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.exe
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.exe
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\CapaCliente.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capalogica.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\bin\Debug\Capadatos.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.vbprojResolveAssemblyReference.cache
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.Form1.resources
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.Resources.resources
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\CapaCliente\obj\Debug\CapaCliente.vbproj.GenerateResource.Cache

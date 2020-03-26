@@ -1,0 +1,36 @@
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.pdb
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.pdb
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.vbprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.Resources.resources
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.dll
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.xml
+C:\Users\alumno\Desktop\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.pdb
+I:\ \SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.dll
+I:\ \SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.pdb
+I:\ \SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.xml
+I:\ \SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.dll
+I:\ \SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.pdb
+I:\ \SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.xml
+I:\ \SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.vbprojResolveAssemblyReference.cache
+I:\ \SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.Resources.resources
+I:\ \SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.vbproj.GenerateResource.Cache
+I:\ \SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.dll
+I:\ \SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.xml
+I:\ \SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capalogica.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.pdb
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\bin\Debug\Capadatos.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.vbprojResolveAssemblyReference.cache
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.Resources.resources
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.vbproj.GenerateResource.Cache
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.dll
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.xml
+D:\Kevin\Sise\2 do ciclo\SISTEMA DE VENTAS\Capalogica\obj\Debug\Capalogica.pdb
